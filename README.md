@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in a Data Analyst Bootcamp<br>🌱 I’m currently learning about Python and anything related to Data Analyse<br>⚡ Fun fact : I know a lot of random facts, ask away ;)
+🔭 I’m currently working in a Data Analyst Bootcamp<br>🌱 I’m currently learning about Python and anything related to Data Analyse<br>
 
 
 ## 🌐 Socials:

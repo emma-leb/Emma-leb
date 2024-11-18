@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on mastering Python and SQL<br>🌱 I’m currently learning everything about Data Analysis<br><br>I have a background in economics, and research as well as some hands on experience in retail.<br>
 
+Latest project : 
+Retail Inventory Optimization for H&M Online Warehouse
+
+https://github.com/Barstov-Industries/Capstone 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/emma-le-bars) 
